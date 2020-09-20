@@ -1,0 +1,73 @@
+.container {
+    margin: 0 auto;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 100%;
+    font-family: Verdana;
+    border: 1px solid #FF8C00;
+}
+
+header {
+    float: left;
+    padding: 50px;
+}
+
+.photo {
+    width: 15%;
+    height: 15%;
+    padding: 50px 50px 50px 200px;
+}
+
+h1,
+h2 {
+    color: #FF8C00;
+}
+
+.description {
+    font-size: 14px;
+    padding: 40px;
+    color: #FF4500;
+}
+
+.description p {
+    margin: 0px;
+}
+
+hr {
+    margin-top: 50px;
+}
+
+.skills {
+    font-size: 14px;
+    padding-left: 40px;
+    color: #FF4500;
+}
+
+.skills li {
+    padding: 7px;
+}
+
+.education {
+    font-size: 14px;
+    padding-left: 40px;
+    color: #FF4500;
+}
+
+.education li {
+    padding: 7px;
+}
+
+.english {
+    font-size: 14px;
+    padding-left: 40px;
+    color: #FF4500;
+}
+.contact{
+    font-size: 14px;
+    padding-left: 40px;
+    color: #FF4500;
+    margin: 20px;
+    padding: 15px;
+}
+
